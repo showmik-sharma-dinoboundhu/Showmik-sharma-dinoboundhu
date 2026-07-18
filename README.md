@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm<br>Showmik Sharma<br><br>A passionate Backend Developer from Bangladesh.<br><br><img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"><br><br>🌱 I'm currently learning :<br>Computer Science fundamentals, including C, C++, Python, Problem Solving, Data Structures & Algorithms (DSA), and               Software Development with modern frameworks.<br><br>🚀 About Me :<br><br>🔹 Passionate Backend Developer who enjoys turning ideas into efficient, scalable, and reliable software.<br><br>🔹 Computer Science student with a strong interest in Backend Development, Data Structures & Algorithms, and Software Engineering.<br><br>🔹 Proficient in C, C++ (DSA), Python, HTML, CSS, PostgreSQL, and MySQL.<br><br>🔹 Experienced with Git, GitHub, Git Bash, VS Code, and Code::Blocks for efficient development and version control.<br><br>🔹 I enjoy solving challenging programming problems, exploring new technologies, and continuously improving my coding skills.<br><br>🔹 Dedicated to writing clean, maintainable, and efficient code while following industry best practices.<br><br>🔹 Always curious, always learning, and always building.<br><br><br>⚡ Fun fact :<br>I believe every bug is just another puzzle waiting to be solved. 😄<br><br>📫 How to reach me :<br>📧 Email : showmiksharma2180@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/showmik-sharma/<br><br><br>📄 My Resume : https://drive.google.com/file/d/1u-4edAfsT6d2bvnXu2-qu-WGIjZfNEEd/view?usp=sharing<br><br><br>💻 Programming Profiles <br>🔹HackerRank : https://www.hackerrank.com/profile/showmiksharma212<br>🔹Codeforces : https://codeforces.com/profile/showmik_sharma<br>🔹CSES              : https://cses.fi/user/423203<br>🔹Codechef     : https://www.codechef.com/users/showmiksharma<br>🔹Leetcode      : https://leetcode.com/u/Showmik_Sharma_Dinoboundhu/
 
-<!--
-**showmik-sharma-dinoboundhu/Showmik-sharma-dinoboundhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ShowmikSharma) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/s.dinobondhu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ss__showmik__/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/showmik-sharma/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/showmik_sharma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Showmik Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:showmiksharma2180@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=showmik-sharma-dinoboundhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=showmik-sharma-dinoboundhu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=showmik-sharma-dinoboundhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=showmik-sharma-dinoboundhu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=showmik-sharma-dinoboundhu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=showmik-sharma-dinoboundhu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
